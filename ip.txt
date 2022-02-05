@@ -1,1 +1,1 @@
-4.tcp.ngrok.io;11065
+4.tcp.ngrok.io:11065
